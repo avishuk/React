@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/avishuk.github.io/confusion/static/css/main.17322a8a.chunk.css",
-    "main.js": "/avishuk.github.io/confusion/static/js/main.148d88c3.chunk.js",
-    "main.js.map": "/avishuk.github.io/confusion/static/js/main.148d88c3.chunk.js.map",
-    "runtime-main.js": "/avishuk.github.io/confusion/static/js/runtime-main.1bd0ea48.js",
-    "runtime-main.js.map": "/avishuk.github.io/confusion/static/js/runtime-main.1bd0ea48.js.map",
-    "static/css/2.6f76a2b3.chunk.css": "/avishuk.github.io/confusion/static/css/2.6f76a2b3.chunk.css",
-    "static/js/2.6f75abde.chunk.js": "/avishuk.github.io/confusion/static/js/2.6f75abde.chunk.js",
-    "static/js/2.6f75abde.chunk.js.map": "/avishuk.github.io/confusion/static/js/2.6f75abde.chunk.js.map",
-    "index.html": "/avishuk.github.io/confusion/index.html",
-    "precache-manifest.afe5588c8216f9aebe32c6849d46d2ac.js": "/avishuk.github.io/confusion/precache-manifest.afe5588c8216f9aebe32c6849d46d2ac.js",
-    "service-worker.js": "/avishuk.github.io/confusion/service-worker.js",
-    "static/css/2.6f76a2b3.chunk.css.map": "/avishuk.github.io/confusion/static/css/2.6f76a2b3.chunk.css.map",
-    "static/css/main.17322a8a.chunk.css.map": "/avishuk.github.io/confusion/static/css/main.17322a8a.chunk.css.map",
-    "static/js/2.6f75abde.chunk.js.LICENSE.txt": "/avishuk.github.io/confusion/static/js/2.6f75abde.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.css": "/avishuk.github.io/confusion/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/avishuk.github.io/react/static/css/main.17322a8a.chunk.css",
+    "main.js": "/avishuk.github.io/react/static/js/main.163cc326.chunk.js",
+    "main.js.map": "/avishuk.github.io/react/static/js/main.163cc326.chunk.js.map",
+    "runtime-main.js": "/avishuk.github.io/react/static/js/runtime-main.b0781d04.js",
+    "runtime-main.js.map": "/avishuk.github.io/react/static/js/runtime-main.b0781d04.js.map",
+    "static/css/2.c9816737.chunk.css": "/avishuk.github.io/react/static/css/2.c9816737.chunk.css",
+    "static/js/2.6f75abde.chunk.js": "/avishuk.github.io/react/static/js/2.6f75abde.chunk.js",
+    "static/js/2.6f75abde.chunk.js.map": "/avishuk.github.io/react/static/js/2.6f75abde.chunk.js.map",
+    "index.html": "/avishuk.github.io/react/index.html",
+    "precache-manifest.58e1fc0ac0c6964d6f3c594a46e4a659.js": "/avishuk.github.io/react/precache-manifest.58e1fc0ac0c6964d6f3c594a46e4a659.js",
+    "service-worker.js": "/avishuk.github.io/react/service-worker.js",
+    "static/css/2.c9816737.chunk.css.map": "/avishuk.github.io/react/static/css/2.c9816737.chunk.css.map",
+    "static/css/main.17322a8a.chunk.css.map": "/avishuk.github.io/react/static/css/main.17322a8a.chunk.css.map",
+    "static/js/2.6f75abde.chunk.js.LICENSE.txt": "/avishuk.github.io/react/static/js/2.6f75abde.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/avishuk.github.io/react/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.1bd0ea48.js",
-    "static/css/2.6f76a2b3.chunk.css",
+    "static/js/runtime-main.b0781d04.js",
+    "static/css/2.c9816737.chunk.css",
     "static/js/2.6f75abde.chunk.js",
     "static/css/main.17322a8a.chunk.css",
-    "static/js/main.148d88c3.chunk.js"
+    "static/js/main.163cc326.chunk.js"
   ]
 }

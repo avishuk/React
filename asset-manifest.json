@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/avishuk.github.io/react/static/css/main.17322a8a.chunk.css",
-    "main.js": "/avishuk.github.io/react/static/js/main.ea837a96.chunk.js",
-    "main.js.map": "/avishuk.github.io/react/static/js/main.ea837a96.chunk.js.map",
+    "main.js": "/avishuk.github.io/react/static/js/main.b6bb852b.chunk.js",
+    "main.js.map": "/avishuk.github.io/react/static/js/main.b6bb852b.chunk.js.map",
     "runtime-main.js": "/avishuk.github.io/react/static/js/runtime-main.b0781d04.js",
     "runtime-main.js.map": "/avishuk.github.io/react/static/js/runtime-main.b0781d04.js.map",
     "static/css/2.c9816737.chunk.css": "/avishuk.github.io/react/static/css/2.c9816737.chunk.css",
     "static/js/2.6f75abde.chunk.js": "/avishuk.github.io/react/static/js/2.6f75abde.chunk.js",
     "static/js/2.6f75abde.chunk.js.map": "/avishuk.github.io/react/static/js/2.6f75abde.chunk.js.map",
     "index.html": "/avishuk.github.io/react/index.html",
-    "precache-manifest.0a7284cf9ddc2fa700670a51a7d7befa.js": "/avishuk.github.io/react/precache-manifest.0a7284cf9ddc2fa700670a51a7d7befa.js",
+    "precache-manifest.0ecc2576f9963bcbd71a64b0b94638f2.js": "/avishuk.github.io/react/precache-manifest.0ecc2576f9963bcbd71a64b0b94638f2.js",
     "service-worker.js": "/avishuk.github.io/react/service-worker.js",
     "static/css/2.c9816737.chunk.css.map": "/avishuk.github.io/react/static/css/2.c9816737.chunk.css.map",
     "static/css/main.17322a8a.chunk.css.map": "/avishuk.github.io/react/static/css/main.17322a8a.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.c9816737.chunk.css",
     "static/js/2.6f75abde.chunk.js",
     "static/css/main.17322a8a.chunk.css",
-    "static/js/main.ea837a96.chunk.js"
+    "static/js/main.b6bb852b.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f745dacf69e42c52780739a3cb26c5f",
+    "revision": "a6b56fa33008bbd7fdd55120f453058d",
     "url": "/avishuk.github.io/react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/avishuk.github.io/react/static/css/2.c9816737.chunk.css"
   },
   {
-    "revision": "659340bc1880bf40a311",
+    "revision": "c33e864b37d524da0d43",
     "url": "/avishuk.github.io/react/static/css/main.17322a8a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/avishuk.github.io/react/static/js/2.6f75abde.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "659340bc1880bf40a311",
-    "url": "/avishuk.github.io/react/static/js/main.ea837a96.chunk.js"
+    "revision": "c33e864b37d524da0d43",
+    "url": "/avishuk.github.io/react/static/js/main.b6bb852b.chunk.js"
   },
   {
     "revision": "23492b78503c7e966e4d",

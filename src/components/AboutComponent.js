@@ -21,39 +21,9 @@ function Renderleader({leader}) {
         </div>
     );
 }
-
-function About(props) {
-
-    
-    
-    
-    
-    if (props.leaders.isLoading) {
-        
-        return(
+const Startinfo = ()=>{
+    return(
         <div className="container">
-            <div className="row">            
-                <Loading />
-            </div>
-        </div>
-        );
-    }
-    else if (props.leaders.errMess) {
-
-        return(
-        <div className="container">
-            <div className="row"> 
-                <div className="col-12">
-                    <h4>{props.dishes.errMess}</h4>
-                </div>
-            </div>
-        </div>
-        );
-    }
-    else {
-        
-        return(
-            <div className="container">
                 <div className="row">
                     <Breadcrumb>
                         <BreadcrumbItem><Link to="/home">Home</Link></BreadcrumbItem>
@@ -102,6 +72,50 @@ function About(props) {
                         </Card>
                     </div>
                 </div>
+            </div>
+
+    );
+}
+
+function About(props) {
+    
+       
+    
+    
+    if (props.leaders.isLoading) {
+        
+        return(
+        <>
+        <Startinfo/> 
+        <div className="container">
+            <div className="row">            
+                <Loading />
+            </div>
+        </div>
+        </>
+        );
+    }
+    else if (props.leaders.errMess) {
+
+        return(
+        <>
+        <Startinfo/>
+        <div className="container">
+            <div className="row"> 
+                <div className="col-12">
+                    <h4>{props.leaders.errMess}</h4>
+                </div>
+            </div>
+        </div>
+        </>
+        );
+    }
+    else {
+        
+        return(
+            <>
+            <Startinfo />
+            <div className="container">
                 <div className="row row-content">
                     <div className="col-12">
                         <h2>Corporate Leadership</h2>
@@ -123,7 +137,7 @@ function About(props) {
                     </div>
                 </div>
             </div>
-        
+            </>
         );
 
     }

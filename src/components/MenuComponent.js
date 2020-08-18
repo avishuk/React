@@ -19,8 +19,25 @@ import { baseUrl } from '../shared/baseUrl';
         );
     }
 
-    const Menu = (props) => {
+    const Menuinfo = ()=>{
+        return(
+                <div className="row">
+                        <Breadcrumb>
+                            <BreadcrumbItem><Link to="/home">Home</Link></BreadcrumbItem>
+                            <BreadcrumbItem active>Menu</BreadcrumbItem>
+                        </Breadcrumb>
+                        <div className="col-12">
+                            <h3>Menu</h3>
+                            <hr />
+                        </div>                
+                </div>
+        
+        );
+    }
 
+    const Menu = (props) => {
+        
+        
         const menu = props.dishes.dishes.map((dish) => {
             return (
                 <div className="col-12 col-md-5 m-1"  key={dish.id}>
@@ -32,6 +49,7 @@ import { baseUrl } from '../shared/baseUrl';
         if (props.dishes.isLoading) {
             return(
                 <div className="container">
+                    <Menuinfo/>
                     <div className="row">            
                         <Loading />
                     </div>
@@ -41,6 +59,7 @@ import { baseUrl } from '../shared/baseUrl';
         else if (props.dishes.errMess) {
             return(
                 <div className="container">
+                    <Menuinfo/>
                     <div className="row"> 
                         <div className="col-12">
                             <h4>{props.dishes.errMess}</h4>
@@ -52,16 +71,7 @@ import { baseUrl } from '../shared/baseUrl';
         else
             return (
                 <div className="container">
-                    <div className="row">
-                        <Breadcrumb>
-                            <BreadcrumbItem><Link to="/home">Home</Link></BreadcrumbItem>
-                            <BreadcrumbItem active>Menu</BreadcrumbItem>
-                        </Breadcrumb>
-                        <div className="col-12">
-                            <h3>Menu</h3>
-                            <hr />
-                        </div>                
-                    </div>
+                    <Menuinfo/>
                     <div className="row">
                         {menu}
                     </div>

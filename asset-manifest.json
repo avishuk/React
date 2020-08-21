@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/React/static/css/main.17322a8a.chunk.css",
-    "main.js": "/React/static/js/main.22fe96d3.chunk.js",
-    "main.js.map": "/React/static/js/main.22fe96d3.chunk.js.map",
-    "runtime-main.js": "/React/static/js/runtime-main.dbd7b477.js",
-    "runtime-main.js.map": "/React/static/js/runtime-main.dbd7b477.js.map",
-    "static/css/2.51daa843.chunk.css": "/React/static/css/2.51daa843.chunk.css",
-    "static/js/2.6f75abde.chunk.js": "/React/static/js/2.6f75abde.chunk.js",
-    "static/js/2.6f75abde.chunk.js.map": "/React/static/js/2.6f75abde.chunk.js.map",
-    "index.html": "/React/index.html",
-    "precache-manifest.a24e71426e863a21aaae7ec91f85fd8a.js": "/React/precache-manifest.a24e71426e863a21aaae7ec91f85fd8a.js",
-    "service-worker.js": "/React/service-worker.js",
-    "static/css/2.51daa843.chunk.css.map": "/React/static/css/2.51daa843.chunk.css.map",
-    "static/css/main.17322a8a.chunk.css.map": "/React/static/css/main.17322a8a.chunk.css.map",
-    "static/js/2.6f75abde.chunk.js.LICENSE.txt": "/React/static/js/2.6f75abde.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.css": "/React/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/React/confusion/static/css/main.17322a8a.chunk.css",
+    "main.js": "/React/confusion/static/js/main.e182b011.chunk.js",
+    "main.js.map": "/React/confusion/static/js/main.e182b011.chunk.js.map",
+    "runtime-main.js": "/React/confusion/static/js/runtime-main.42b7be2e.js",
+    "runtime-main.js.map": "/React/confusion/static/js/runtime-main.42b7be2e.js.map",
+    "static/css/2.a04c74ad.chunk.css": "/React/confusion/static/css/2.a04c74ad.chunk.css",
+    "static/js/2.6f75abde.chunk.js": "/React/confusion/static/js/2.6f75abde.chunk.js",
+    "static/js/2.6f75abde.chunk.js.map": "/React/confusion/static/js/2.6f75abde.chunk.js.map",
+    "index.html": "/React/confusion/index.html",
+    "precache-manifest.5452af2c1100bbcaaba52d26279ea42b.js": "/React/confusion/precache-manifest.5452af2c1100bbcaaba52d26279ea42b.js",
+    "service-worker.js": "/React/confusion/service-worker.js",
+    "static/css/2.a04c74ad.chunk.css.map": "/React/confusion/static/css/2.a04c74ad.chunk.css.map",
+    "static/css/main.17322a8a.chunk.css.map": "/React/confusion/static/css/main.17322a8a.chunk.css.map",
+    "static/js/2.6f75abde.chunk.js.LICENSE.txt": "/React/confusion/static/js/2.6f75abde.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/React/confusion/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbd7b477.js",
-    "static/css/2.51daa843.chunk.css",
+    "static/js/runtime-main.42b7be2e.js",
+    "static/css/2.a04c74ad.chunk.css",
     "static/js/2.6f75abde.chunk.js",
     "static/css/main.17322a8a.chunk.css",
-    "static/js/main.22fe96d3.chunk.js"
+    "static/js/main.e182b011.chunk.js"
   ]
 }
